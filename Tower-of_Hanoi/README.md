@@ -38,4 +38,4 @@ Move to? 2
 ```
 
 ## 🤖 Author
-[Anirudh C M](https://github.com/Anirudh1106)
+[Anirudh C M](https://github.com/Anirudh1103)

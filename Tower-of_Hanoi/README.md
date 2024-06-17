@@ -11,14 +11,14 @@ You can copy paste my markdown photo insert as following:
 -->
 
 ## 🛠️ Description
-<!--Remove the below lines and add yours -->
+
 Tower of Hanoi game built with python
 
 ## ⚙️ Languages or Frameworks Used
-<!--Remove the below lines and add yours -->
+
 The script was created with Python3 and the built-in functions in it
 ## 🌟 How to run
-<!--Remove the below lines and add yours -->
+
 ```bash
 python3 hanoi.py 
 
@@ -38,5 +38,4 @@ Move to? 2
 ```
 
 ## 🤖 Author
-<!--Remove the below lines and add yours -->
 [Anirudh C M](https://github.com/Anirudh1106)

@@ -11,4 +11,4 @@ just run the script and follow the instructions
 image.png
 
 ## *Author Name*
-BlockmasterPlayz
+Anirudh C M

@@ -61,12 +61,5 @@ python expense_tracker.py
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/expense_tracker.png" width=70% height=70%>
 
 ## 🤖 Author
-[Darshan Patil](https://github.com/darshan8850)
+[Anirudh C M](https://github.com/Anirudh1106)
 
-## 📜 License
-This project is licensed under the MIT License
-
-## 📝 Acknowledgments
-- [Python](https://www.python.org/)
-- [VS Code](https://code.visualstudio.com/)
-- [GitHub](https://github.com/ndleah/python-mini-project)

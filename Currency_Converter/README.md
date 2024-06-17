@@ -15,17 +15,3 @@ A program that converts currencies using CLI
 pip install forex-python
 pip install requests
 ```
-
-## 🌟 How to run
-
-```
-python currency-converter.py <[amount]> <BASE> to <DESTINATION>
-```
-
-
-<p align="center">
-<img src="../IMG/currency_converter_demo.png" width=90% height=40%>
-
-## 🤖 Author
-
-[Yehuda Elyasaf](https://github.com/YehudaElyasaf)

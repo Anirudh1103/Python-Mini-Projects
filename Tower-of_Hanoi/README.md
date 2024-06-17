@@ -1,8 +1,3 @@
-<!--Please do not remove this part-->
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/JaronWenger)
-
 # Tower of Hanoi
 
 <p align="center">
@@ -44,4 +39,4 @@ Move to? 2
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-[JaronWenger](https://github.com/JaronWenger)
+[Anirudh C M](https://github.com/Anirudh1106)

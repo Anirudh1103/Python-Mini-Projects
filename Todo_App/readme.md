@@ -5,3 +5,5 @@ This is a simple todo app created to foster the understanding of the fundamental
 
 Requirements: 
   flask-bootstrap, do pip install flask-bootstrap
+##Author
+Anirudh C M
